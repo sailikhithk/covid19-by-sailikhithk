@@ -21,7 +21,6 @@
 <img alt="Covid Stats Live Dashboard Screenshot 1" src="https://coronastatistics.live/screenshots/sc1.png" />
 <img alt="Covid Stats Live Dashboard Screenshot 2" src="https://coronastatistics.live/screenshots/sc2.png" />
 <img alt="Covid Stats Live Dashboard Screenshot 3" src="https://coronastatistics.live/screenshots/sc3.png" />
-<img alt="Covid Stats Live Dashboard Screenshot 4" src="https://coronastatistics.live/screenshots/sc4.png" />
 
 ## Build the Angular project
 
