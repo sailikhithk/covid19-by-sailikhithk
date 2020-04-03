@@ -16,6 +16,8 @@
 
 ### ✨ [Demo](https://coronastatistics.live)
 
+### [![Video Demo](https://img.youtube.com/vi/dnwoDyAaMEA/0.jpg)](https://www.youtube.com/watch?v=dnwoDyAaMEA)
+
 ## Screenshots
 
 <img alt="Covid Stats Live Dashboard Screenshot 1" src="https://coronastatistics.live/screenshots/sc1.png" />
