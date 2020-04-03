@@ -16,7 +16,7 @@
 
 ### ✨ [Demo](https://coronastatistics.live)
 
-### Video Demo
+### Youtube Video
 ### [![Video Demo](https://img.youtube.com/vi/dnwoDyAaMEA/0.jpg)](https://www.youtube.com/watch?v=dnwoDyAaMEA)]
 
 ## Screenshots
