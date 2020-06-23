@@ -12,9 +12,7 @@
 </p>
 <img alt="Covid Stats Live Dashboard" src="https://coronastatistics.live/assets/images/preview.png" />
 
-### 🏠 [Homepage](https://github.com/covid19-by-sailikhithk/Corona-Statistics-And-Tracker-Dashboard-Angular-9)
-
-### ✨ [Demo](https://coronastatistics.live)
+### 🏠 [Homepage](https://github.com/covid19-by-sailikhithk/)
 
 ### Youtube Video
 ### [![Video Demo](https://img.youtube.com/vi/dnwoDyAaMEA/0.jpg)](https://www.youtube.com/watch?v=dnwoDyAaMEA)]
@@ -78,16 +76,6 @@ Edit src/app/core/services/getdata.service.ts and replace with your own api url.
 ```
   private host = "https://api.coronastatistics.live"
 ```
-
-# API Endpoints
-
-* http://api.coronastatistics.live/all
-* http://api.coronastatistics.live/countries
-* http://api.coronastatistics.live/countries?sort={parameter}
-* http://api.coronastatistics.live/countries/{country_name}
-* http://api.coronastatistics.live/timeline
-* http://api.coronastatistics.live/timeline/global
-* http://api.coronastatistics.live/timeline/{country_name}
 
 ## Author
 
