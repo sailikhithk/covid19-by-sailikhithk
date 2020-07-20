@@ -81,7 +81,7 @@ Edit src/app/core/services/getdata.service.ts and replace with your own api url.
 
 👤 **Sai Likhith K**
 
-* Website: https://www.sailikhith7.github.io
+* Website: https://www.sailikhithk.github.io
 * Twitter: [@SaiLikhithK](https://twitter.com/Likhith96)
 * Github: [@SaiLikhithK](https://github.com/SaiLikhith7)
 * LinkedIn: [@SaiLikhithK](https://linkedin.com/in/SaiLikhith96)
